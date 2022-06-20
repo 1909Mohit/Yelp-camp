@@ -97,7 +97,7 @@ DELETE    /campgrounds/:id/comments/:cid  Delete comment
 - [express](https://gulpjs.com/)
 - [mongodb](https://webpack.js.org/concepts/)
 
-Check [`package.json`](https://github.com/Hsins/udemy_Yelp-Camp/blob/master/package.json) file for more information.
+Check [`package.json`](https://github.com/1909Mohit/Yelp-camp/blob/master/package.json) file for more information.
 
 # Getting Started
 
@@ -130,7 +130,3 @@ $ npm run dev
 # More Information
 
 All the notes I took in [Markdown](https://daringfireball.net/projects/markdown/syntax) (.md) format. You can find them in my [Udemy-Notes](https://github.com/Hsins/Udemy-Notes) repository. The note for this course is [here](https://hsins.github.io/Udemy-Notes/The%20Web%20Developer%20Bootcamp/).
-
-# License
-
-Licensed under the MIT License, Copyright © 2017-present Hsins.
