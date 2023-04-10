@@ -14,8 +14,6 @@
 </div>
 
 # Udemy Project: Yelp Camp
-
-This is a hands-on project from the Udemy course - [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/) by Colt Steele.
   
 # Demo
 
@@ -107,7 +105,7 @@ Follow the instructions below to set up the environment and run this project on 
 
 ```bash
 # Clone repository
-$ git clone https://github.com/Hsins/udemy_Yelp-Camp.git
+$ git clone https://github.com/1909Mohit/Yelp-camp.git
 ```
 
 2. Install dependencies via NPM or Yarn
@@ -126,7 +124,3 @@ $ yarn install
 # Run server
 $ npm run dev
 ```
-
-# More Information
-
-All the notes I took in [Markdown](https://daringfireball.net/projects/markdown/syntax) (.md) format. You can find them in my [Udemy-Notes](https://github.com/Hsins/Udemy-Notes) repository. The note for this course is [here](https://hsins.github.io/Udemy-Notes/The%20Web%20Developer%20Bootcamp/).
