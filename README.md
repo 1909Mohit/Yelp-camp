@@ -6,22 +6,18 @@
   <h2>- Development Process -</h2>
 </div>
 
-<div align="right">
+<div align="center">
   <img src="https://img.shields.io/badge/Completion-100%25-blue.svg" />
-  <a href="https://github.com/Hsins/udemy_Yelp-Camp/blob/master/LICENSE" alt="License">
-    <img src="https://img.shields.io/github/license/Hsins/udemy_Yelp-Camp.svg" />
+  <a href="https://github.com/1909Mohit/Yelp-camp/blob/master/LICENSE" alt="License">
+    <img src="https://img.shields.io/github/license/1909Mohit/Yelp-camp.svg" />
   </a>
 </div>
 
 # Udemy Project: Yelp Camp
   
-# Demo
 
-<div align="center">
-  <img src="demo/demo.gif" />
-</div>
 
-You can see a complete working example [here](https://camps-cs32.onrender.com). Or you can run the demo on your local machine, please follow the instructions in [Getting Started](#getting-started).
+You can see a complete working example [here](https://camps-cs32.onrender.com). Or you can run the demo on your local machine. Please follow the instructions in [Getting Started](#getting-started).
 
 # Features
 
@@ -65,7 +61,7 @@ Campgrounds Route
 -------------------------------------------------------------------------
 [Method]  [Route]
 GET       /campgrounds            Fetch all campgrounds
-POST      /campgrounds            Create a new campground to database
+POST      /campgrounds            Create a new campground in the database
 GET       /campgrounds/new        Request the campground adding page
 GET       /campgrounds/:id        Show the campground information
 PUT       /campgrounds/:id        Update campground information (all)
