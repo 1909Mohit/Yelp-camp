@@ -9,7 +9,7 @@
 # Udemy Project: Yelp Camp
   
 <div align="center">
-  <img src="public/demo.mp4" />
+  <img src="public/gif.gif" />
 </div>
 
 You can see a complete working example [here](https://camps-cs32.onrender.com). Or you can run the demo on your local machine. Please follow the instructions in [Getting Started](#getting-started).
