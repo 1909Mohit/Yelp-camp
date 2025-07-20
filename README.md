@@ -6,16 +6,11 @@
   <h2>- Development Process -</h2>
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Completion-100%25-blue.svg" />
-  <a href="https://github.com/1909Mohit/Yelp-camp/blob/master/LICENSE" alt="License">
-    <img src="https://img.shields.io/github/license/1909Mohit/Yelp-camp.svg" />
-  </a>
-</div>
-
 # Udemy Project: Yelp Camp
   
-
+<div align="center">
+  <img src="public/demo.gif" />
+</div>
 
 You can see a complete working example [here](https://camps-cs32.onrender.com). Or you can run the demo on your local machine. Please follow the instructions in [Getting Started](#getting-started).
 
